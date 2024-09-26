@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gayan/Documents/DataScience/08_END_to_END_ML_PROJECTS/03_MLFlow/mlruns/0/f5a9d4fb98314c2f98d1916e12e38a9d/artifacts
+end_time: 1727359864761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5a9d4fb98314c2f98d1916e12e38a9d
+run_name: sincere-toad-133
+run_uuid: f5a9d4fb98314c2f98d1916e12e38a9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727359859225
+status: 3
+tags: []
+user_id: gayan
